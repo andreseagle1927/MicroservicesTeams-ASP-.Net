@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cByLM8vQnF2j8hcUg9Gm0KcAE/+d5/9rfDtHWM8kJEiykwyZKiVFkzJEFED30p+nlx2L5RhOyg70dEzB/HQq0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andres\\Documents\\GitHub\\ServicesDevelopment\\Practices\\04.Microservices\\MembersService\\MembersService.Domain\\MembersService.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andres\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/V5hhf5WNRTU9yaZJYh2IETWvfAwP5NvcswKQvelIsB1e0vQUNUn6hp3khZZvOhqEHuOlNkFh+17z2l5wpojoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andres\\Documents\\GitHub\\ServicesDevelopment\\Practices\\04.Microservices\\MembersService\\MembersService.Application\\MembersService.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andres\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
