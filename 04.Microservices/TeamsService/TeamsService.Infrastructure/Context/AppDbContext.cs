@@ -21,4 +21,3 @@ namespace TeamsService.Infrastructure.Context
     }
 }
 
-//skdnsjdn
