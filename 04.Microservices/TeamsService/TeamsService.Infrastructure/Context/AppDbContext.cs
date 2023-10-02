@@ -7,7 +7,7 @@ namespace TeamsService.Infrastructure.Context
     {
         public AppDbContext()
         {
-
+            
 
         }
 
@@ -20,3 +20,5 @@ namespace TeamsService.Infrastructure.Context
         public DbSet<Team> Teams { get; set; }
     }
 }
+
+//skdnsjdn
